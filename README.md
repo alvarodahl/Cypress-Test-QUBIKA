@@ -35,4 +35,4 @@ Para la misma, una vez descargado este repositorio, podremos elegir entre dos al
 Si se deseara tener visibilidad del UI durante la ejecución de los casos, debemos ejecutar el siguiente comando: **npm run cypress:open**
 En cambio, si NO es preferente dicha visibilidad, basta con ejecutar el comando: **npx cypress run** , el cual ejecutará los tests en background. 
 Téngase en cuenta que esto es exclusivo de este caso, ya que dicho último comando corre TODOS los specs que tengamos dentro de nuestro framework, por lo que, en otros escenarios, 
-podríamos estar ejecutando varias otras casuísticas que no son de nuestro interés. 
+podríamos estar ejecutando varias otras casuísticas que no son de nuestro interés.
