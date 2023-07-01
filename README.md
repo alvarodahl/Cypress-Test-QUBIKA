@@ -1,3 +1,4 @@
+# VER EN CODE PARA MAYOR LEGIBILIDAD
 # Cypress-Test-QUBIKA
 Cypress Test for QUBIKA
 
